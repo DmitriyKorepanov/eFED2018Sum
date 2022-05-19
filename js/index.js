@@ -3,3 +3,4 @@ this.window.onload = function() {
     weekForecastMock
   );
 };
+// test
